@@ -36,7 +36,7 @@ Just <a href="mailto:royalldesign@gmail.com"><u>send us an email</u></a> to get 
 
 Royall Design can fulfill your every graphic design need.
 
-<img src="img/logos.png" alt="Logos" style="width:256px; float: right;">
+<img src="img/logos2.png" alt="Logos" style="width:256px; float: right;">
 
 We would like you to email us with some basic ideas that you might have, or desires for your project.  We'd be happy to help you out right over the phone or even in person if you are in our immediate area.
 
