@@ -14,4 +14,4 @@ Romans 8:28 New International Version (NIV)
 "And we know that in all things God works for the good of those who love Him, who[a] have been called according to his purpose."
 
 Add this to your Royall Design cart at our store : put link here...
-<img src="img/romans8.jpg" alt="Romans 8"></img>
+<img src="img/romans8.jpg" alt="Romans 8" style="width:256px;">
