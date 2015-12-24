@@ -1,7 +1,7 @@
 ---
 title:  "Colossians 3"
 subtitle: "It's always a bit messy"
-author: "Wferr"
+author: "sarah"
 avatar: "img/authors/wferr.png"
 image: "img/colossians3.jpg"
 date:   2015-12-23 12:12:10
