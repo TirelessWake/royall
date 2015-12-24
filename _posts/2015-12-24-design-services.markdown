@@ -3,7 +3,7 @@ title:  "Royall Design Services"
 subtitle: ""
 author: "Sarah"
 avatar: "img/authors/sarah.jpg"
-image: "img/logos.png"
+image: "img/logos2.png"
 date:   2015-12-24 12:12:10
 published: true
 ---
