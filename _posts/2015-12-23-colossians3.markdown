@@ -12,3 +12,4 @@ published: true
 Colossians 3:20 - Children, obey your parents in everything, for this pleases the Lord.
 
 Add this to your Royall Design cart at our store : put link here...
+<img src="img/colossians3.jpg" alt="Colossians 3"></img>
