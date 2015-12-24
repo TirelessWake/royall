@@ -1,6 +1,6 @@
 ---
 title:  "Colossians 3"
-subtitle: "It's always a bit messy"
+subtitle: "Obedient Children..."
 author: "Sarah"
 avatar: "img/authors/sarah.jpg"
 image: "img/colossians3.jpg"

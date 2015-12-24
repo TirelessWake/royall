@@ -1,6 +1,6 @@
 ---
 title:  "Romans 8"
-subtitle: "It's always a bit messy"
+subtitle: "In all things..."
 author: "Sarah"
 avatar: "img/authors/sarah.jpg"
 image: "img/romans8.jpg"
@@ -11,6 +11,6 @@ published: true
 ### Romans Poster
 Romans 8:28 New International Version (NIV)
 
-"And we know that in all things God works for the good of those who love him, who[a] have been called according to his purpose."
+"And we know that in all things God works for the good of those who love Him, who[a] have been called according to his purpose."
 
 Add this to your Royall Design cart at our store : put link here...

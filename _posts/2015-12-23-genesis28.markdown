@@ -1,6 +1,6 @@
 ---
 title:  "Genesis 28"
-subtitle: "It's always a bit messy"
+subtitle: "Watching over you..."
 author: "Sarah"
 avatar: "img/authors/sarah.jpg"
 image: "img/genesis28.jpg"
