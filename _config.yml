@@ -3,5 +3,5 @@ title: Royall Design
 description: A Modern Design Studio.
 keywords: Modern, Design, Fun
 author: Royall Design
-baseurl: "/royall/" # the subpath of your site, e.g. /blog/
-url: "tirelesswake.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "royalldesign.tirelesswake.com" # the base hostname & protocol for your site
