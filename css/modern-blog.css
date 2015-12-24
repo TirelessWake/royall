@@ -358,3 +358,29 @@ a:focus {
 	-webkit-transform: scale(1)!important;
 	transform: scale(1)!important;
 }
+
+
+.footer-wrapper {
+    margin: 2em auto;
+    font-family: electrolize,sans-serif;
+    font-size: 14px;
+    font-size: .875rem;
+    font-style: italic;
+    color: #555;
+    text-align: center;
+    *zoom: 1;
+}
+
+.footer-wrapper:after,.footer-wrapper:before {
+    display: table;
+    line-height: 0;
+    content: "";
+}
+
+.footer-wrapper:after {
+    clear: both;
+}
+
+.footer-wrapper a {
+    color: #555;
+}

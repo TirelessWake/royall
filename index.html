@@ -28,7 +28,7 @@ layout: compress
     <body class="body">
         <div class="container">
             <header class="header">
-                <h1><a href="http://royalldesign.tirelesswake.com"><img src="img/RoyallDesignLogo-customD.png" alt="Royall Design"></a><span>A Fresh Design Studio.</span></h1>
+                <h1><a href="http://royalldesign.tirelesswake.com"><img src="img/RoyallDesignLogo-customD.png" alt="Royall Design" style="max-width:100%;"></a><span>A Fresh Design Studio.</span></h1>
                 <nav class="links">
                     <a href="#"><i class="fa fa-twitter-square fa-3x"></i></a>
                     <a href="#"><i class="fa fa-instagram fa-3x"></i></a>
@@ -73,6 +73,11 @@ layout: compress
                 <!-- /cards -->
             </div>
         </div>
+        <div class="footer-wrapper">
+          <footer role="contentinfo">
+            {% include footer.html %}
+          </footer>
+        </div><!-- /.footer-wrapper -->
         <!-- /container -->
         <!-- JS -->
         <script src="js/vendors/trianglify.min.js"></script>

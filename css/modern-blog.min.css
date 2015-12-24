@@ -63,3 +63,29 @@ a:focus{color:#3b393d;}
 .polygon{transition:-webkit-transform 300ms ease-in-out, opacity 300ms ease-in-out;transition:transform 300ms ease-in-out, opacity 300ms ease-in-out;-webkit-transform:scale(1);transform:scale(1);-webkit-transform-origin:center bottom;transform-origin:center bottom;}
 .polygon--hidden{opacity:0;-webkit-transform:scale(0);transform:scale(0);}
 .ff .polygon{-webkit-transform:scale(1)!important;transform:scale(1)!important;}
+
+
+.footer-wrapper {
+    margin: 2em auto;
+    font-family: electrolize,sans-serif;
+    font-size: 14px;
+    font-size: .875rem;
+    font-style: italic;
+    color: #555;
+    text-align: center;
+    *zoom: 1;
+}
+
+.footer-wrapper:after,.footer-wrapper:before {
+    display: table;
+    line-height: 0;
+    content: "";
+}
+
+.footer-wrapper:after {
+    clear: both;
+}
+
+.footer-wrapper a {
+    color: #555;
+}
