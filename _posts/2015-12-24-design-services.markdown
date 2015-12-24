@@ -8,15 +8,24 @@ date:   2015-12-24 12:12:10
 published: true
 ---
 
-## Have a need?
-- Does your business need a new image?
-- Want to publish a newsletter?
-- Have an event to promote or something to sell?
-- Need a video for an anniversary or reunion?
+Have a need?
+
+Does your business need a new image?
+
+Want to publish a newsletter?
+
+Have an event to promote or something to sell?
+
+Need a video for an anniversary or reunion?
 
 
-## Royall Design can help!
-We may not be close in proximity, but we are as close as your computer and phone. Whether it’s a new logo, newsletter, or brochure you need, we can take your information, send you some ideas, and produce the final design. We’ll deliver the files to your preferred printer or send you a CD if you prefer so that you may print your project when you need it.
+## Royall Design can help:
+
+We may not be close in proximity, but we are as close as your computer and phone.
+
+Whether it’s a new logo, newsletter, or brochure you need, we can take your information, send you some ideas, and produce the final design.
+
+We’ll deliver the files to your preferred printer or send you a CD if you prefer so that you may print your project when you need it.
 
 If you have home movies that you would like to combine into a dynamic presentation for an upcoming event, we can do that, too.
 
@@ -27,7 +36,7 @@ Just <a href="mailto:royalldesign@gmail.com"><u>send us an email</u></a> to get 
 
 Royall Design can fulfill your every graphic design need.
 
-<img src="img/logos.png" alt="Logos" style="width:256px;">
+<img src="img/logos.png" alt="Logos" style="width:256px; float: right;">
 
 We would like you to email us with some basic ideas that you might have, or desires for your project.  We'd be happy to help you out right over the phone or even in person if you are in our immediate area.
 
