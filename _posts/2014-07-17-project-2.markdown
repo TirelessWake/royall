@@ -1,12 +1,12 @@
 ---
-title: Standard - $650
-subtitle:  Brian's T's or Zzz's
+title: 1 John 1:7
+subtitle: Poster
 layout: default
 modal-id: 2
 date: 2016-11-18
-img: store/brianorange1.jpg
-thumbnail: store/brianorange2.jpg
+img: rd/1john1.png
+thumbnail: rd/1john1.png
 alt: image-alt
-description: Standard gets full-featured site with phone button or email contact form and a product portfolio section.
+description: 1 John 1:9 poster with dimensions ?" wide x ?" tall.
 
 ---

@@ -1,12 +1,12 @@
 ---
-title: Retainer - $30/hr
-subtitle:  Custom work and updates.
+title: Blessed
+subtitle: Poster
 layout: default
 modal-id: 4
 date: 2016-11-18
-img: store/shirt3.png
-thumbnail: store/shirt3.png
+img: rd/blessed.jpg
+thumbnail: rd/blessed.jpg
 alt: image-alt
-description: Retainer - hourly based - updates or other custom work. a la cart $30/hr. Or try our most popular bundle of "up to 1 hour weekly update for $1400/year". ...We can post your blog for you! It can be as simple as emailing an update or posting a youtube video and we can get it posted directly to your site!
+description: Matthew 5:1-12 poster with dimensions ?" wide x ?" tall.
 
 ---

@@ -1,11 +1,11 @@
 ---
-title: Shirts!
-subtitle: Shirt Designs
+title: Colossians 3:20
+subtitle: Poster
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: store/shirt2.jpg
-thumbnail: store/shirt2.jpg
+img: rd/colossians-web-small.jpg
+thumbnail: rd/colossians-web-small.jpg
 alt: image-alt
-description: Yay for shirts!
+description: Colossians 3:20 poster with dimensions ?" wide x ?" tall.
 ---

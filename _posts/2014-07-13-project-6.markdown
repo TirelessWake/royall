@@ -1,13 +1,12 @@
 ---
-title: Rain or Shine
-subtitle: Pray, Train, Conquer, Repeat
+title: Genesis 12:2
+subtitle: Poster
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: store/shirt1.png
-thumbnail: store/shirt1.png
+date: 2014-2-19
+img: rd/genesis-12-2-cleanweb.jpg
+thumbnail: rd/genesis-12-2-cleanweb.jpg
 alt: image-alt
-project-date: April 2014
-description: Dawn to dusk, we pray, we must.
+description: Genesis 12:2 poster with dimensions ?" wide x ?" tall.
 
 ---

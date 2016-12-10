@@ -1,12 +1,12 @@
 ---
-title: Rivers End Pullover
-subtitle:  Mens Contrast Stitch HalfZip
+title: Genesis 9:11
+subtitle: Poster
 layout: default
 modal-id: 7
 date: 2016-12-07
-img: store/1610/1610bk.png
-thumbnail: store/1610/1610rd.png
+img: rd/genesis9-11-web.jpg
+thumbnail: rd/genesis9-11-web.jpg
 alt: image-alt
-description: River's End Sport logo below back collar
+description: Genesis 9:11 poster with dimensions ?" wide x ?" tall.
 
 ---
