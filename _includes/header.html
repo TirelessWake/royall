@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">{{site.title}}</a>
+                <a class="navbar-brand page-scroll" href="#page-top"><img src="{{ site.baseurl }}/{{ site.data.template.logo.nav }}">{{site.title}}</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -18,14 +18,11 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
-                    <li>
+                    <!-- <li>
                         <a class="page-scroll" href="#services">Services</a>
-                    </li>
+                    </li> -->
                     <li>
                         <a class="page-scroll" href="#portfolio">Products</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#team">Team</a>
@@ -34,7 +31,7 @@
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
                     <li>
-                        <a href="https://www.facebook.com/royalldesign"><i class="fa fa-facebook-square"></i></a>
+                        <a href="{{ site.data.template.facebook.url }}"><i class="fa fa-facebook-square"></i></a>
                     </li>
                 </ul>
             </div>
@@ -43,16 +40,35 @@
         <!-- /.container-fluid -->
     </nav>
 
+
     <!-- Header -->
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Welcome To Royall Design!</div>
+                <div class="intro-lead-in">
+                    Welcome To </br>
+                    Royall <a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/{{ site.data.template.logo.sm }}"></a>Design
+                </div>
                 <div class="intro-heading">Delivering Quality Prints</div>
-                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
+                <a href="#portfolio" class="page-scroll btn btn-xl">Show Me More</a>
             </div>
         </div>
     </header>
+
+    <!-- Header -->
+    <!-- <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in">
+                    Welcome To </br>
+                    <a href="{{ site.baseurl }}">
+                    <img src="{{ site.baseurl }}/{{ site.data.template.logo.lg }}"></a>
+                </div>
+                <div class="intro-heading">Delivering Quality Prints</div>
+                <a href="#portfolio" class="page-scroll btn btn-xl">Show Me More</a>
+            </div>
+        </div>
+    </header> -->
 <!--
         {% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}

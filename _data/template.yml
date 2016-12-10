@@ -11,9 +11,16 @@ color:
   hover: 21, 165, 137, 0.7
 
 background-image:
-  bg/1.jpg
+  header: bg/1.jpg
+  portfolio: bg/7.jpg
 
+facebook:
+  url: https://www.facebook.com/RoyallDesignIowa
 
+logo:
+  lg: img/rdlogo.png
+  sm: img/rdlogosm.png
+  nav: img/rdlogonav.png
 
 # Font Families
 font:

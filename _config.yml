@@ -10,13 +10,13 @@ description: "A Fresh Design Studio"
 # Team names, titles and social links
 people:
 - name: Sarah Howk
-  pic: frame1.jpg
+  pic: sarahroy1.jpg
   position: Designer
   social:
     # - title: twitter
     #   url: #
     - title: facebook
-      url: https://www.facebook.com/royalldesign
+      url: https://www.facebook.com/sarah.c.howk
     # - title: stack-overflow
     #   url: #
 
@@ -47,7 +47,7 @@ social:
   # - title: twitter
   #   url: http://twitter.com/jekyllrb
   - title: facebook
-    url: https://www.facebook.com/royalldesign
+    url: https://www.facebook.com/RoyallDesignIowa
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
   # - title: bitbucket
