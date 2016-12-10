@@ -15,11 +15,13 @@ description: Genesis 12:2 poster with dimensions ?" wide x ?" tall.
 <button
     type="button"
     class="snipcart-add-item btn btn-default"
-    data-item-id="2"
-    data-item-name="Bacon"
-    data-item-price="3.00"
+    data-dismiss="modal"
+    data-item-id="6"
+    data-item-name="Genesis 12:2"
+    data-item-price="30.00"
     data-item-weight="20"
     data-item-url="/"
-    data-item-description="Some fresh bacon">
-        Buy bacon
+    data-item-image="/img/rd/genesis-12-2-cleanweb-thmb.jpg"
+    data-item-description="Poster Print">
+        Buy Poster
 </button>
