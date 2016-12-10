@@ -10,3 +10,18 @@ alt: image-alt
 description: 1 John 1:9 poster with dimensions ?" wide x ?" tall.
 
 ---
+
+
+<button
+    type="button"
+    class="snipcart-add-item btn btn-default"
+    data-dismiss="modal"
+    data-item-id="1"
+    data-item-name="1 John 1:9"
+    data-item-price="30.00"
+    data-item-weight="20"
+    data-item-url="/"
+    data-item-image="/img/rd/sthmb/1john-web-sthmb.png"
+    data-item-description="Poster Print">
+        Buy Poster
+</button>

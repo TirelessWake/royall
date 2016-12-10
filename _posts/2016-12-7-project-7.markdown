@@ -10,3 +10,18 @@ alt: image-alt
 description: Genesis 9:11 poster with dimensions ?" wide x ?" tall.
 
 ---
+
+
+<button
+    type="button"
+    class="snipcart-add-item btn btn-default"
+    data-dismiss="modal"
+    data-item-id="7"
+    data-item-name="Genesis 9:11
+    data-item-price="30.00"
+    data-item-weight="20"
+    data-item-url="/"
+    data-item-image="/img/rd/sthmb/genesis9-11-web-sthmb.jpg"
+    data-item-description="Poster Print">
+        Buy Poster
+</button>
