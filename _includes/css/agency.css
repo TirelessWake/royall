@@ -661,7 +661,8 @@ section h3.section-subheading {
 
 .team-member img {
     margin: 0 auto;
-    border: 7px solid #fff;
+    border: groove 1em #{{ site.data.template.color.primary }};
+    /*border: 7px solid #{{ site.data.template.color.primary }};*/
 }
 
 .team-member h4 {
