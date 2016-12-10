@@ -23,5 +23,5 @@ description: Matthew 5:1-12 poster with dimensions ?" wide x ?" tall.
     data-item-url="/"
     data-item-image="/img/rd/sthmb/blessed-sthmb.jpg"
     data-item-description="Poster Print">
-        Buy Poster
+        Add To Cart
 </button>

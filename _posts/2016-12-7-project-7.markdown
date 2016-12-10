@@ -23,5 +23,5 @@ description: Genesis 9:11 poster with dimensions ?" wide x ?" tall.
     data-item-url="/"
     data-item-image="/img/rd/sthmb/genesis9-11-web-sthmb.jpg"
     data-item-description="Poster Print">
-        Buy Poster
+        Add To Cart
 </button>

@@ -22,5 +22,5 @@ description: Colossians 3:20 poster with dimensions ?" wide x ?" tall.
     data-item-url="/"
     data-item-image="/img/rd/sthmb/colossians-web-small-sthmb.jpg"
     data-item-description="Poster Print">
-        Buy Poster
+        Add To Cart
 </button>
