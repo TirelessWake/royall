@@ -4,8 +4,8 @@ subtitle: Poster
 layout: default
 modal-id: 3
 date: 2016-11-18
-img: rd/1john4-pink-web.jpg
-thumbnail: rd/1john4-pink-web.jpg
+img: rd/thmb/1john4-pink-web-thmb.jpg
+thumbnail: rd/thmb/1john4-pink-web-thmb.jpg
 alt: image-alt
 description: 1 John 4:7-8 poster with dimensions ?" wide x ?" tall.
 ---

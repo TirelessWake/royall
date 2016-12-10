@@ -4,8 +4,8 @@ subtitle: Poster
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: rd/colossians-web-small.jpg
-thumbnail: rd/colossians-web-small.jpg
+img: rd/thmb/colossians-web-small-thmb.jpg
+thumbnail: rd/thmb/colossians-web-small-thmb.jpg
 alt: image-alt
 description: Colossians 3:20 poster with dimensions ?" wide x ?" tall.
 ---

@@ -4,8 +4,8 @@ subtitle: Poster
 layout: default
 modal-id: 4
 date: 2016-11-18
-img: rd/blessed.jpg
-thumbnail: rd/blessed.jpg
+img: rd//thmb/blessed-thmb.jpg
+thumbnail: rd/thmb/blessed-thmb.jpg
 alt: image-alt
 description: Matthew 5:1-12 poster with dimensions ?" wide x ?" tall.
 

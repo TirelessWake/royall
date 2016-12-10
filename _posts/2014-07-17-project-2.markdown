@@ -4,8 +4,8 @@ subtitle: Poster
 layout: default
 modal-id: 2
 date: 2016-11-18
-img: rd/1john1.png
-thumbnail: rd/1john1.png
+img: rd/thmb/1john1-thmb.png
+thumbnail: rd/thmb/1john1-thmb.png
 alt: image-alt
 description: 1 John 1:9 poster with dimensions ?" wide x ?" tall.
 
