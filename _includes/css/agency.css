@@ -700,10 +700,12 @@ section#contact .form-group textarea {
 
 section#contact .form-group input.form-control {
     height: auto;
+    color: #{{ site.data.template.color.primary }};
 }
 
 section#contact .form-group textarea.form-control {
     height: 236px;
+    color: #{{ site.data.template.color.primary }};
 }
 
 section#contact .form-control:focus {
