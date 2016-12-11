@@ -7,7 +7,7 @@ date: 2016-11-18
 img: rd/thmb/1john-web-thmb.png
 thumbnail: rd/thmb/1john-web-thmb.png
 alt: image-alt
-description: 1 John 1:9 poster with dimensions ?" wide x ?" tall.
+description: 1 John 1:9 poster with dimensions 11"x17".
 
 ---
 

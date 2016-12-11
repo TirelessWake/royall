@@ -7,7 +7,7 @@ date: 2016-12-07
 img: rd/thmb/genesis9-11-web-thmb.jpg
 thumbnail: rd/thmb/genesis9-11-web-thmb.jpg
 alt: image-alt
-description: Genesis 9:11 poster with dimensions ?" wide x ?" tall.
+description: Genesis 9:11 poster with dimensions 11"x17".
 
 ---
 

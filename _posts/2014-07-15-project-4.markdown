@@ -7,7 +7,7 @@ date: 2016-11-18
 img: rd//thmb/blessed-thmb.jpg
 thumbnail: rd/thmb/blessed-thmb.jpg
 alt: image-alt
-description: Matthew 5:1-12 poster with dimensions ?" wide x ?" tall.
+description: Matthew 5:1-12 poster with dimensions 11"x17".
 
 ---
 

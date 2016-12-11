@@ -7,7 +7,7 @@ date: 2014-2-19
 img: rd/thmb/genesis-12-2-thmb.jpg
 thumbnail: rd/thmb/genesis-12-2-thmb.jpg
 alt: image-alt
-description: Genesis 12:2 poster with dimensions ?" wide x ?" tall.
+description: Genesis 12:2 poster with dimensions 11"x17".
 
 ---
 

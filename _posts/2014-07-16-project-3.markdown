@@ -7,7 +7,7 @@ date: 2016-11-18
 img: rd/thmb/1john4-pink-web-thmb.jpg
 thumbnail: rd/thmb/1john4-pink-web-thmb.jpg
 alt: image-alt
-description: 1 John 4:7-8 poster with dimensions ?" wide x ?" tall.
+description: 1 John 4:7-8 poster with dimensions 11"x17".
 ---
 
 
