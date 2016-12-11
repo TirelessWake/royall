@@ -17,7 +17,7 @@ description: 1 John 4:7-8 poster with dimensions 11"x17".
     data-dismiss="modal"
     data-item-id="3"
     data-item-name="1 John 4:7-8"
-    data-item-price="30.00"
+    data-item-price="20.00"
     data-item-weight="20"
     data-item-url="/"
     data-item-image="/img/rd/sthmb/1john4-pink-web-sthmb.jpg"
