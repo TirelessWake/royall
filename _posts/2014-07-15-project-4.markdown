@@ -19,7 +19,6 @@ description: Matthew 5:1-12 poster with dimensions 11"x17".
     data-item-id="4"
     data-item-name="Blessed"
     data-item-price="30.00"
-    data-item-weight="20"
     data-item-url="/"
     data-item-image="/img/rd/sthmb/blessed-sthmb.jpg"
     data-item-description="Poster Print">
